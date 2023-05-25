@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, HTML, CSS, Python**
 
-- 📫 How to reach me **sarthakt3006@gmail.com*
+- 📫 How to reach me *sarthakt3006@gmail.com*
 - 🧑🏻‍💻 My latest project https://master--lyterate.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
