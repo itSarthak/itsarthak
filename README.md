@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java, HTML, CSS, Python**
+- 💬 Ask me about **Java, HTML, CSS, Python, Flutter**
 
 - 📫 How to reach me *sarthakt3006@gmail.com*
 
