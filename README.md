@@ -6,7 +6,6 @@
 
 ###  About Me
 - I am not attached to any framework, I prefer exploring and working with anything and everything that can get the job done.
-- Software Engineer at [Zscaler](https://www.zscaler.com/)
 - Exploring Open Source and making meaningful contributions.
 
 ---
